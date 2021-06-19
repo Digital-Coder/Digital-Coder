@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**Digital-Coder/Digital-Coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there ! I'm Norbertas
+Self taught full stack web developer from Lithuania, currently living in Denmark.</br>
+Looking forward to get more experience in coding and to potentially find a job.
 
-Here are some ideas to get you started:
+### About
+**Stack :** JavaScript, React, MongoDB, Express
+</br> **Tools :** Adobe Photoshop
+</br>**Currently Learning :** Next.js    
+**Hobbies :** Weight Training, Language Learning (Danish and Russian), Photography
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Major courses taken
+Complete 2020 Web Development Bootcamp by Angela Yu
+</br>MERN eCommerce From Scratch by Brad Traversy
+</br>JavaScript (OOP, FP) The Hard Parts by Will Sentance
+
+
+
