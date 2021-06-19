@@ -10,7 +10,7 @@ Looking forward to get more experience in coding and to potentially find a job.
 **Hobbies :** Weight Training, Language Learning (Danish and Russian), Photography
 
 ### Major courses taken
-Complete 2020 Web Development Bootcamp by Angela Yu
+Complete Web Development Bootcamp by Angela Yu
 </br>MERN eCommerce From Scratch by Brad Traversy
 </br>JavaScript (OOP, FP) The Hard Parts by Will Sentance
 
