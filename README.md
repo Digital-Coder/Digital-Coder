@@ -1,5 +1,5 @@
 
-## Hi there ! I'm Norbertas
+## Hi there ! 
 Self taught full stack web developer from Lithuania, currently living in Denmark.</br>
 Looking forward to get more experience in coding and to potentially find a job.
 
