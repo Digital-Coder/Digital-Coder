@@ -1,12 +1,11 @@
 
 ## Hi there ! 
 Self taught full stack web developer from Lithuania, currently living in Denmark.</br>
-Looking forward to get more experience in coding and to potentially find a job.
+
 
 ### About
 **Stack :** JavaScript, React, MongoDB, Express
-</br> **Tools :** Adobe Photoshop
-</br>**Currently Learning :** Next.js    
+</br> **Tools :** Adobe Photoshop   
 **Hobbies :** Weight Training, Language Learning (Danish and Russian), Photography
 
 ### Major courses taken
