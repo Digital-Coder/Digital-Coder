@@ -1,12 +1,12 @@
 
 ## Hi there ! 
-Self taught full stack web developer from Lithuania, currently living in Denmark.</br>
+Self taught full stack web developer from Lithuania</br>
 
 
 ### About
-**Stack :** JavaScript, React, MongoDB, Express
-</br> **Tools :** Adobe Photoshop   
-**Hobbies :** Weight Training, Language Learning (Danish and Russian), Photography
+**Stack :** JavaScript, React, MongoDB, Express, Firebase
+ 
+**Hobbies :** Weight Training, Language Learning, Photography
 
 ### Major courses taken
 Complete Web Development Bootcamp by Angela Yu
